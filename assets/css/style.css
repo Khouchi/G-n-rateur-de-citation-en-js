@@ -1,0 +1,43 @@
+
+body{
+ background-color: rgba(136, 255, 0, 0.157);
+ font: italic 1.2em "Fira Sans", serif;
+ background: linear-gradient(0.25turn, #303282, #d5d07d);
+}
+.title{
+  color: black;
+  text-align: center;
+font-size: 20PX 5px;
+
+}
+
+
+.box_choix {
+width: 25%;
+text-align: center;
+color: rgb(22, 1, 1);
+font-size: 20px;
+width: auto;
+margin: 5% 20% ;
+border: dashed;
+background-color: aliceblue;
+padding: 10rem;
+
+}
+.btn{
+width: 300px;
+padding: 7px 0;
+font-size: 22px;
+color: rgb(68, 5, 5);
+border: 1px solid rgb(68, 5, 5);
+text-align: center;
+margin-left: 35% ;
+
+
+}
+.btn:hover{
+transition: all 0.2s ease-in-out;
+background: rgb(128, 170, 108);
+color: white;
+text-align: center;
+}
